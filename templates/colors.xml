@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Neo-Brutalist Material 3 palette (standard)
+    Canonical source: DESIGN_SYSTEM.md at repo root.
+    Window/background: Ivory #FFFFF0, status bar matches window w/ dark icons.
+-->
+<resources>
+    <!-- Core (standard) -->
+    <color name="nb_background">#FFFFF0</color>   <!-- Window / background (Ivory) -->
+    <color name="nb_text">#161610</color>        <!-- Text primary & icons (Dark Charcoal) -->
+    <color name="nb_surface">#FFFFFF</color>      <!-- Card surfaces / dialogs (Clean White) -->
+    <color name="nb_accent">#FF9E43</color>       <!-- Accent: FABs, progress, active (Soft Orange) -->
+    <color name="nb_stroke">#161610</color>       <!-- Strokes & borders (Dark Charcoal) -->
+
+    <!-- Semantic extensions -->
+    <color name="nb_success">#2F9E44</color>       <!-- Positive confirmation -->
+    <color name="nb_error">#D64545</color>         <!-- Destructive / errors -->
+    <color name="nb_text_on_accent">#161610</color><!-- Text layered on accent (Charcoal on orange) -->
+</resources>
